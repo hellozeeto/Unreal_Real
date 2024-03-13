@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/unreal_study/QuickDraw/Content/PaperAssets/Background/T_Background.uasset",
+				"D:/unreal_study/QuickDraw/Content/PaperAssets/Misc/T_Cross.uasset",
+				"D:/unreal_study/QuickDraw/Content/PaperAssets/Misc/T_Exclamation.uasset",
+				"D:/unreal_study/QuickDraw/Content/PaperAssets/Tanuki/T_Tanuki_Attack.uasset",
+				"D:/unreal_study/QuickDraw/Content/PaperAssets/Tanuki/T_Tanuki_Defeated.uasset",
+				"D:/unreal_study/QuickDraw/Content/PaperAssets/Tanuki/T_Tanuki_Idle.uasset",
+				"D:/unreal_study/QuickDraw/Content/PaperAssets/Toad/T_Toad_Attack.uasset",
+				"D:/unreal_study/QuickDraw/Content/PaperAssets/Toad/T_Toad_Defeated.uasset",
+				"D:/unreal_study/QuickDraw/Content/PaperAssets/Toad/T_Toad_Idle.uasset"
+			]
+		}
+	]
+}
